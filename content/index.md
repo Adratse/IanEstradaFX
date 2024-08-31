@@ -7,3 +7,7 @@ Esta pagina la voy a estar usando para publicar mis notas sobre cualquier cosa r
 
 Esta padre por que puedo hacer [[links entre notas]] y se muestran en la vista de grafico que se ve en la pag
 
+# sobre el nombre... 
+
+ni idea que nombre lo voy a poner, quisiera algo decente xd
+
