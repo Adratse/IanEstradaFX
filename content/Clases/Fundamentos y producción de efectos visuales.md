@@ -38,7 +38,7 @@ La primera unidad será rápida, una semana nada mas, veremos al paso veloz el t
 ---
 
 <center>SEGUNDA UNIDAD</center>
-Es en esta segunda unidad donde veremos el uso de los Efectos visuales en ámbitos tanto de live-action como de animación 3D y 2D ya que a través del entendimiento de estas utilidades será que construyamos los efectos en nuestros proyectos futuros. Analizaremos los Efectos de diferentes obras, aprenderemos sobre la forma que estos fueron realizados para obtener las técnicas que estos utilizaron en su creación y utilizaremos diferentes ejercicios para desarrollar nuestro conocimiento con respecto a las mismas.
+Es en esta segunda unidad donde veremos el uso de los Efectos visuales en ámbitos tanto de live-action como de animación 3D y 2D ya que a través del entendimiento de estas utilidades será que construyamos los efectos en nuestros proyectos futuros. Analizaremos los Efectos de diferentes obras, aprenderemos sobre la forma que estos fueron realizados para obtener las técnicas que estos utilizaron en su creación y realizaremos diferentes ejercicios para desarrollar nuestro conocimiento con respecto a las mismas.
 En este bloque iniciaremos con el proyecto integrador.
 
 ---
@@ -51,4 +51,5 @@ Aquí continuaremos con el proyecto integrador, que nada tendrá que ver con el 
 
 <center>CUARTA UNIDAD</center>
 Expandiremos a nuestro repertorio con la implementación de simulaciones sencillas con tal de aprender el proceso de producción y como se prepara un shot para estas.
+es en esta ultima unidad que se entregaría el resultado final de nuestro proyecto integrador como examen final.
 
