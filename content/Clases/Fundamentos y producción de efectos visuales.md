@@ -7,15 +7,14 @@ tags:
 ---
 ## introducción 
 
-Primera clase correspondiente a los [[VFX]] de los morros de la [[Politecnica de Bacalar]] Waos! 
-Como tal la clase nomas busca ser una inducción inicial a los VFX, tanto 3D como 2D, Animados y realistas; se trata de dar a entender la parte fundamental de su utilización en una producción audiovisual, ya sea animada como live-action.
+Primera clase correspondiente a los [[VFX]] de los morros de la [[Politecnica de Bacalar]] Waos! la clase nomas busca ser una inducción a los VFX, tanto Live-action como Animados, y de entre los últimos, tanto 3D como 2D; se trata de dar a entender la parte fundamental de su utilización en una producción audiovisual, ya sea animada como live-action.
 
 Ajá si padrino, muy bonita la intención, pero **Como se va a ver?**
 perate mendigo impaciente que ese es el siguiente tema.
 
 ## Como se va a ver?
 
-Ojito que esto aquí no es el temario, aquí nada mas voy a desglosar el por que veremos lo que vamos a ver. Como siempre, la institución nos ha dado un temario ya realizado, sin embargo lo he cambiado y lo iré cambiando a medida que avancemos para ajustar el aprendizaje a medida que vaya viendo su avance, esto significa que existe la posibilidad de que veamos algunos temas mas o algunos temas menos.
+Ojito que esto aquí no es el temario, aquí nada mas voy a desglosar el por que veremos lo que vamos a ver. Como siempre, la institución nos ha dado un temario ya realizado, sin embargo lo he cambiado y lo seguiré cambiando a medida que vaya viendo su avance, esto significa que existe la posibilidad de que veamos algunos temas mas o algunos temas menos.
 
 Que ganas de hacerme sufrir a mi mismo por que jijuesumauser! me va a tocar investigar muchos temas muy rápido para darles clase pero bueno.
 Para mi propia paz mental este temario lo ajusté para unificar los temas que estaré dando en ambas unis (si esto llega a causar molestias pido una sincera disculpa, solo soy una persona y ustedes son muchos, les doy permiso me linchen si así lo prefieren)
