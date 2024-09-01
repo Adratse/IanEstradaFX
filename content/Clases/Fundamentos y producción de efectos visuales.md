@@ -27,16 +27,21 @@ Empezaremos rápido este cuatri e iremos viendo los temas cada vez mas despacio 
 <center>PRIMERA UNIDAD</center>
 La primera unidad será rápida, una semana nada mas, veremos al paso veloz el tema de la historia de los VFX nada mas para saber la información básica, ya que lo importante de la materia está en aquello que aprendan de manera practica, este tema será visto a través de investigación y platica
 
+
 <center>SEGUNDA UNIDAD</center>
 Es en esta segunda unidad donde veremos el uso de los Efectos visuales en ámbitos tanto de live-action como de animación 3D y 2D ya que a través del entendimiento de estas utilidades será que construyamos los efectos en nuestros proyectos futuros. Analizaremos los Efectos de diferentes obras, aprenderemos sobre la forma que estos fueron realizados para obtener las técnicas que estos utilizaron en su creación y utilizaremos diferentes ejercicios para desarrollar nuestro conocimiento con respecto a las mismas.
 En este bloque iniciaremos con el proyecto integrador.
+
 
 <center>TERCERA UNIDAD</center>
 Con el conocimiento adquirido durante la unidad anterior a la vez de cuatrimestres anteriores llevaremos a cabo la realización de un ¿proyecto grupal? (quiensabe xd) en el cual los alumnos afianzarán su aprendizaje a través del desarrollo de una escena que haga uso de un set digital. Para lo anterior los alumnos tendrán primero que aprender que es un set digital y como crearlo pero pues como esa pate esta bien fácil, rapidin se hace.
 Aquí continuaremos con el proyecto integrador, que nada tendrá que ver con el proyecto de unidad así que aguas, por que también estará el animaton.
 
+
 <center>CUARTA UNIDAD</center>
 Expandiremos a nuestro repertorio con la implementación de simulaciones sencillas con tal de aprender el proceso de producción y como se prepara un shot para estas.
+
+
 ## Temario
 
 1. Primera unidad - Historia de los Efectos visuales (1 Semana|*2-4 sept*)
