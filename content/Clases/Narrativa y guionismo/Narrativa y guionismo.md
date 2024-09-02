@@ -7,13 +7,13 @@ tags:
 ---
 ## introducción 
 
-Como el resultado de nuestro contexto que somos, tenemos una capacidad de contar historias de un modo único gracias a nuestro conocimiento. Solo nosotros somos capaces de entender al mundo a traves de nuestros ojos y expresar nuestras narrativas a traves de nuestra propia voz. 
+Como el resultado de nuestro contexto que somos, tenemos una capacidad de contar historias de un modo único gracias a nuestro conocimiento. Solo nosotros somos capaces de entender al mundo a través de nuestros ojos y expresar nuestras narrativas haciendo uso de nuestra propia voz. 
 
-Ésta clase la dedicaremos al desarrollo de nuestras habilidades narrativas a traves de la practica constante y una lectura consciente de cuanta historia seamos capaces de leer 
+Ésta clase la dedicaremos al desarrollo de nuestras habilidades narrativas haciendo practica constante y lectura consciente de cuanta historia seamos capaces de leer. 
 
 ## Como se va a ver?
 
-
+Como ya mencione antes, la materia será vista a través de la escritura de historias cortas pero por sobre todo, los temas serán vistos haciendo lectura de muchos cuentos y muchas historias con la intención de mejorar la comprensión lectora y analizarlos a través de los temas vistos.  
 
 ## Temario
 
