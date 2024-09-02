@@ -28,6 +28,7 @@ Empezaremos rápido este cuatri e iremos viendo los temas cada vez mas despacio 
 3. Tercera unidad - Sets digitales y animación para vfx (5 Semanas|*23 sept-23 Oct*) 
 4. Cuarta unidad - Bases de simulación aplicadas a VFX (5 Semanas|*28 Oct-2 Dic*)
 
+<p align="right">Total 13 semanas</p>
 
 ### Explicación de unidades
 
