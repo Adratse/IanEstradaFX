@@ -23,7 +23,7 @@ Empezaremos rápido este cuatri e iremos viendo los temas cada vez mas despacio 
 
 ## Temario
 
-1. Primera unidad - Historia de los Efectos visuales (1 Semana|*2-4 sept*)
+1. Primera unidad - [[Historia de los Efectos visuales]] (1 Semana|*2-4 sept*)
 2. Segunda unidad - Elementos base de los Efectos Visuales (2-3 Semanas|*9-18 sept*)
 3. Tercera unidad - Sets digitales y animación para vfx (5 Semanas|*23 sept-23 Oct*) 
 4. Cuarta unidad - Bases de simulación aplicadas a VFX (5 Semanas|*28 Oct-2 Dic*)
