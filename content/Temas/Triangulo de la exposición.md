@@ -15,5 +15,23 @@ Quisiera decirles cuales son los tres parámetros principales que intervienen en
 
 y que tenia que ver?
 
-no pus nadamas que a dia de hoy las cámaras aun funcionan asi!
+no pus nadamas que a día de hoy las cámaras aun funcionan así!
+
+## El triangulo de la exposición!
+
+*Aqui va una introduccion xd que no he escrito por que ya me dio sueño juas juas equisde*
+
+### Apertura
+
+![[diafragma.gif]]
+
+Recordando la función de la cámara oscura, la apertura del diafragma es el control que tenemos sobre que el diámetro del agujero que permite la entrada de la luz. Como resultado la imagen se vuelve mas oscura ante menor diámetro del agujero de entrada.
+El efecto secundario que esto nos provoca es el desenfoque de los objetos que se encuentran en el fondo o en el frente de nuestro objetivo.
+
+*aqui una tabla que nos muestra el resultado de este relajo*
+### velocidad de obturación
+
+
+
+### ISO
 
