@@ -56,3 +56,10 @@ un efecto secundario a la velocidad de obturación es el desenfoque de movimient
 
 ### ISO
 
+
+|       ==**Ejemplo**==       |                                                                                            ==Resultado==                                                                                            |
+| :-------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![[apertura base.png\|500]] |                                                                           **Base**<br>Ya la conocen, es la imagen de base                                                                           |
+|   ![[ISO  Bajo.png\|500]]   | **ISO bajo**<br>Al Contar con un ISO bajo la expocision es menor, lo que se traduce en menor captura de la iluminacion de el onbetivo.<br>ante mas bajo el iso menor cantidad de ruido en la imagen |
+|   ![[ISO  alto.png\|500]]   |                  **ISO Alto**<br>A mayor cantidad de ISO mayor expocision en nuestra foto. <br>sin embargo ante mayor ISO tambien es mayor la cantidad de ruido en nuestra imagen.                  |
+
