@@ -1,6 +1,6 @@
 ---
 title: Historia de la fotografía
-draft: true
+draft: false
 tags: 
 aliases:
   - historia de la fotografía
