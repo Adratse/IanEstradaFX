@@ -55,7 +55,8 @@ un efecto secundario a la velocidad de obturación es el desenfoque de movimient
 
 
 ### ISO
-
+![[Iso.png]]
+Ya para acabar de relacionar los parámetros con la invención de la fotografía el ISO obedece a la sensibilidad del "material de grabado" a la luz que este le permite capturar, mientras mas bajo el ISO mayor calidad tendrá la fotografía pero menor capacidad de capturar la luz y viceversa, al subir el iso la capacidad de capturar la luz aumenta pero la calidad baja, dando cabida a la introducción de ruido.
 
 |       ==**Ejemplo**==       |                                                                                            ==Resultado==                                                                                            |
 | :-------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
