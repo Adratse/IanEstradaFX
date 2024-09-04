@@ -33,9 +33,9 @@ El efecto secundario que esto nos provoca es el desenfoque de los objetos que se
 
 |       ==**Ejemplo**==        |                                                                                                                     ==Resultado==                                                                                                                     |
 | :--------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![[apertura base.png\|300]]  |                         **Imagen Base**<br>Esta es la escena base que estaré usando para ejemplificar el uso de la apertura.<br><br>los ajustes están acomodados para que todos los objetos estén enfocados y bien expuestos.                         |
-|  ![[Mas apertura.png\|300]]  | **Mas apertura**<br>A mayor apertura lo primero que podemos ver es que toda la fotografía cuenta con mucha luz, esto se debe a que la mayor apertura deja entrar mas luz.<br> los objetos fuera de nuestra zona de enfoque se encuentran desenfocados |
-| ![[Menos apertura.png\|300]] |    **Menos apertura**<br>La apertura menor limita el paso de la luz al interior de la cámara, lo que se traduce en una foto con menor exposición.<br>El efecto secundario en este caso es que mas objetos en nuestra foto se encuentran enfocados.    |
+| ![[apertura base.png\|500]]  |                         **Imagen Base**<br>Esta es la escena base que estaré usando para ejemplificar el uso de la apertura.<br><br>los ajustes están acomodados para que todos los objetos estén enfocados y bien expuestos.                         |
+|  ![[Mas apertura.png\|500]]  | **Mas apertura**<br>A mayor apertura lo primero que podemos ver es que toda la fotografía cuenta con mucha luz, esto se debe a que la mayor apertura deja entrar mas luz.<br> los objetos fuera de nuestra zona de enfoque se encuentran desenfocados |
+| ![[Menos apertura.png\|500]] |    **Menos apertura**<br>La apertura menor limita el paso de la luz al interior de la cámara, lo que se traduce en una foto con menor exposición.<br>El efecto secundario en este caso es que mas objetos en nuestra foto se encuentran enfocados.    |
 
 
 ### velocidad de obturación
@@ -49,9 +49,9 @@ un efecto secundario a la velocidad de obturación es el desenfoque de movimient
 
 |          ==**Ejemplo**==          |                                                                                                              ==Resultado==                                                                                                              |
 | :-------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    ![[apertura base.png\|300]]    | **Base**<br>Misma imagen, en esta ocasión le puse animacion a la esfera para que al renderizar se genere el resultado.<br>Ésta podria tomarse como el resultado a una baja velocidad, pues no hay movimiento aparente en la esfera.<br> |
-| ![[VelocObt Menos Baja.png\|300]] |                                   **Un poco menos de velocidad**<br>Es complicado mostrar muy bien el resultado de la velocidad de obturador asi que aqui una foto con menos velocidad de obturacion.                                   |
-|    ![[VelocObt Baja.png\|300]]    |                                                                    **Mucha menos velocidad**<br>El motion blur esta bien pasado de lanza ijoles nomacayuuuun aaaaaaa                                                                    |
+|    ![[apertura base.png\|500]]    | **Base**<br>Misma imagen, en esta ocasión le puse animacion a la esfera para que al renderizar se genere el resultado.<br>Ésta podria tomarse como el resultado a una baja velocidad, pues no hay movimiento aparente en la esfera.<br> |
+| ![[VelocObt Menos Baja.png\|500]] |                                   **Un poco menos de velocidad**<br>Es complicado mostrar muy bien el resultado de la velocidad de obturador asi que aqui una foto con menos velocidad de obturacion.                                   |
+|    ![[VelocObt Baja.png\|500]]    |                                                                    **Mucha menos velocidad**<br>El motion blur esta bien pasado de lanza ijoles nomacayuuuun aaaaaaa                                                                    |
 
 
 ### ISO
