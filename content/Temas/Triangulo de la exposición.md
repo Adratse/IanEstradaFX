@@ -19,8 +19,15 @@ no pus nadamas que a día de hoy las cámaras aun funcionan así!
 
 ## El triangulo de la exposición!
 
-*Aqui va una introduccion xd que no he escrito por que ya me dio sueño juas juas equisde*
+![[Triangulo de la expocision.png]]
+El triangulo de la exposición es una guía que nos ayuda a definir los parámetros y comprender las capacidades que estos nos dan para ejercer control sobre la exposición de nuestras fotos.
 
+### Que es la exposición?
+
+que tan iluminada está la foto...
+y ya xd
+
+![[Exposición.png]]
 ### Apertura
 
 ![[diafragma.gif]]
