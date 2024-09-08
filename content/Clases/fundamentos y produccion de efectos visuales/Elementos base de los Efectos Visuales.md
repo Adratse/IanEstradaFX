@@ -16,3 +16,7 @@ En todo caso, si nuestro objetivo al final del cuatrimestre es ser capaces de de
 
 ## Como definimos que es un VFX?
 
+>[!todo] Actividad de clase.
+>Ayúdenme a ayudarles, discutamos cual es la forma mas Básica de VFX que se nos pueda ocurrir y por que creemos que es ese.
+>por favor hagamos esta actividad, neta que estaria muy padre porfas aaaa ´(*>﹏<*)′
+
