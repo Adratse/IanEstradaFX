@@ -48,6 +48,7 @@ A continuación haré una tabla donde exponga cada opción junto con los temas q
 Separados por equipos que realizan tareas especificas, el salón llevará a cabo un proyecto en el que se utilicen miniaturas como escenografía de una escena con VFX.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BC9-qUmsBUo?si=YYUbaIw_-bk8zMxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 En este video vemos un ejemplo de las técnicas que podríamos utilizar en el set.
 
 #### temas que se verán con esta actividad
@@ -86,6 +87,7 @@ En este video vemos un ejemplo de las técnicas que podríamos utilizar en el se
 Esta opción consiste en la realización por equipos de tres integrantes formados al azar (siguiendo la regla de trabajo en equipo que he puesto) de un Matte painting seguido de su proyección en el espacio 3D para después componerle a un personaje (uno de sus compañeros disfrazado) para la realización de un solo shot.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/psoAsZ_sS-A?si=ZJJsbu5RXK_hWS9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 En este ejemplo vemos una idea general de lo que se realizará.
 
 #### Temas que se verían con esta actividad
