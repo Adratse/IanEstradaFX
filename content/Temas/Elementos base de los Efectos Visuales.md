@@ -29,21 +29,11 @@ En todo caso, si nuestro objetivo al final del cuatrimestre es ser capaces de de
 
 ## Y entonces que son los VFX?
 
-Para definir que son los VFX, usemos las respuestas a las preguntas que hicimos antes, Usando de ejemplo peliculas, series y  
+Los efectos visuales (VFX) son técnicas utilizadas en la industria del cine, la televisión, los videojuegos y otros medios audiovisuales para crear imágenes o secuencias que no pueden ser logradas mediante la filmación tradicional. Estos efectos se utilizan para añadir elementos digitales a una escena, modificar o mejorar la apariencia de los actores, cambiar el entorno en el que se desarrolla la historia, crear criaturas fantásticas, recrear escenarios históricos, entre muchas otras posibilidades.
 
-### Para que se utilizan los VFX?
+Los efectos visuales pueden incluir desde simples ajustes de color y contraste, hasta la creación de mundos enteros generados por computadora. Para lograr estos efectos, se utilizan programas de software especializados como Nuke, Adobe After Effects, Autodesk Maya, Cinema 4D, entre otros, así como hardware de alta gama para el renderizado de las imágenes.
 
-
-### Donde se utilizan los VFX?
-
-
-### Cuales son los métodos para realizar un VFX?
-
-
-### En que consiste un VFX?
-
-
-### De que manera se realiza un VFX?
+Los VFX se han vuelto una parte fundamental en la producción de películas y series de televisión, ya que permiten a los realizadores llevar a cabo su visión creativa de manera más efectiva y realista. Además, los efectos visuales han evolucionado considerablemente en los últimos años, permitiendo crear escenas cada vez más impresionantes y sorprendentes para el público.
 
 
 ## Actividad para los chavos.
@@ -93,7 +83,7 @@ En este video vemos un ejemplo de las técnicas que podríamos utilizar en el se
 
 #### En qué consiste?
 
-Esta opción consiste en la realización por equipos de tres integrantes formados al azar (siguiendo la regla de trabajo en equipo que he puesto) de un Matte painting seguido de su proyección en el espacio 3D para después componerle a un personaje (uno de sus compañeros disfrazado) para la realizacion de un solo shot.
+Esta opción consiste en la realización por equipos de tres integrantes formados al azar (siguiendo la regla de trabajo en equipo que he puesto) de un Matte painting seguido de su proyección en el espacio 3D para después componerle a un personaje (uno de sus compañeros disfrazado) para la realización de un solo shot.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/psoAsZ_sS-A?si=ZJJsbu5RXK_hWS9b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 En este ejemplo vemos una idea general de lo que se realizará.
