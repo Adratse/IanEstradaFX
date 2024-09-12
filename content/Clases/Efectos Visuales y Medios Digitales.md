@@ -1,9 +1,11 @@
 ---
 title: Efectos Visuales y Medios Digitales
-draft: true
+draft: false
 tags:
   - Clase
   - CUDV
 ---
 ## introducción 
 
+Oliiii!
+![[gaige-smiley.gif]]
