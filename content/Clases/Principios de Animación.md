@@ -1,8 +1,11 @@
 ---
 title: Principios de Animación
-draft: true
+draft: false
 tags:
   - Clase
   - CUDV
 ---
 ## introducción 
+Holiii!!!
+
+![[gaige-smiley.gif]]
