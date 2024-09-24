@@ -21,7 +21,7 @@ En el pasado he cometido el error de no permitir la practica continua al dar la 
 ## Temario
 
 1.  Primera unidad - [[Triangulo de la exposición]] e [[historia de la fotografía]] (3 Semanas)
-2. Segunda unidad - Composición fotográfica y corrientes de la fotografía (3 Semanas)
+2. Segunda unidad - [[Composición fotográfica]] y corrientes de la fotografía (3 Semanas)
 3. Tercera unidad - Encuadre e Iluminación fotográfica. (3 Semanas)
 4. Cuarta unidad - Foto-narrativa. (4 Semanas)
 

@@ -45,4 +45,6 @@ El alumno elaborará distintos tipos de guiones para producir una obra audiovisu
 <center>CUARTA UNIDAD</center>
 El alumno elaborará distintos tipos de guiones para producir una obra audiovisual
 
+## Algunos textos
 
+![[tripas.pdf]]
